@@ -6,7 +6,7 @@ Este repositorio corresponde al primer taller formativo de la asignatura Aplicac
 
 El proyecto tiene como propósito aplicar los fundamentos de Git y GitHub mediante la creación de un repositorio, el registro de cambios con commits, el trabajo con ramas y la integración de nuevas funcionalidades.
 
-Estado del proyecto: inicial
+Estado del proyecto: versión en desarrollo
 
 ## Objetivos
 
